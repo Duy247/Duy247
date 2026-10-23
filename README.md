@@ -6,8 +6,7 @@
 
 I’m **Van Thanh Duy**, an **Automation Tester at MBBank**.
 
-<details open>
-<summary>Skills / test report</summary>
+### Skills
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
@@ -15,7 +14,6 @@ I’m **Van Thanh Duy**, an **Automation Tester at MBBank**.
   <img src="assets/skills-light.svg" alt="Manual Testing · Python · Java · Automation Test · Web Development" width="830">
 </picture>
 
-</details>
 
 <table>
 <tr>
@@ -52,10 +50,7 @@ I’m **Van Thanh Duy**, an **Automation Tester at MBBank**.
 </tr>
 </table>
 
-<details>
-<summary>Activity / GitHub, languages &amp; npm</summary>
-
-<p><sub>Supplied cards are labeled SAMPLE / offline data unavailable.</sub></p>
+### Activity
 
 <table>
 <tr>
@@ -86,7 +81,6 @@ I’m **Van Thanh Duy**, an **Automation Tester at MBBank**.
   <img src="assets/generated/snake-light.svg" alt="Duy247 contribution snake animation" width="830" />
 </picture>
 
-</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
