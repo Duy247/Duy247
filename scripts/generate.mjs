@@ -115,7 +115,18 @@ async function main() {
   const [github, activity, downloads] = await Promise.all([
     TOKEN ? authenticatedRepos() : restRepos().catch(sampleOnFailure({ repos: 0, stars: 0, languages: new Map() })),
     TOKEN ? contributions() : { total: 0, streak: 0 },
-    Promise.all(['@duy247/uk6', '@duy247/git-training'].map(async name => ({ name, ...await request(`https://api.npmjs.org/downloads/point/last-week/${encodeURIComponent(name)}`) }))).catch(sampleOnFailure(['@duy247/uk6', '@duy247/git-training'].map(name => ({ name, downloads: 0, start: 'unavailable', end: 'unavailable' })))),
+    Promise.all(['@duy247/uk6', '@duy247/git-training'].map(async name => {
+      try {
+        const data = await request(`https://api.npmjs.org/downloads/point/last-week/${name}`);
+        if (data.error || !Number.isFinite(data.downloads) || data.downloads < 0) {
+          throw new Error(data.error || 'Invalid npm downloads response');
+        }
+        return { name, ...data };
+      } catch (error) {
+        console.warn(`npm downloads unavailable for ${name}; using 0 downloads: ${error.message}`);
+        return { name, downloads: 0, start: 'unavailable', end: 'unavailable' };
+      }
+    })),
   ]);
   const sampleFooter = `SAMPLE / offline data unavailable / ${today}`;
   const languages = [...github.languages].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])).slice(0, 5);
