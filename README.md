@@ -132,5 +132,3 @@ I’m **Van Thanh Duy**, an **Automation Tester at MBBank**.
 </picture>
 </a>
 </p>
-
-[duy5a247@gmail.com](mailto:duy5a247@gmail.com)
