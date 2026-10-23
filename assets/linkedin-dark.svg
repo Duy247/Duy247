@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="40" viewBox="0 0 132 40" role="img" aria-labelledby="title desc"><title id="title">LinkedIn</title><desc id="desc"></desc><style>
+.blink{animation:blink 1.8s steps(1,end) infinite}
+.type-window{animation:typing 2.2s steps(11,end) both}
+.reveal1{animation:reveal .5s 2.5s both}.reveal2{animation:reveal .5s 3.1s both}.reveal3{animation:reveal .5s 3.7s both}.reveal4{animation:reveal .5s 4.3s both}
+.twinkle{animation:twinkle 4s ease-in-out infinite alternate}.twinkle.alt{animation-delay:-2s}
+.pulse{animation:pulse 4s ease-in-out infinite}
+@keyframes blink{0%,65%,100%{opacity:1}75%,90%{opacity:.15}}
+@keyframes typing{from{width:0}to{width:560px}}
+@keyframes reveal{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+@keyframes twinkle{from{opacity:.25}to{opacity:1}}
+@keyframes pulse{0%,100%{opacity:.6}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.blink,.type-window,.reveal1,.reveal2,.reveal3,.reveal4,.twinkle,.pulse{animation:none!important}.type-window{width:560px}}
+</style><defs>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8C929B" stroke-opacity=".075"/></pattern>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 1H4" stroke="#F4F2EC" stroke-opacity=".02"/></pattern>
+<radialGradient id="a"><stop stop-color="#FFB020" stop-opacity=".16"/><stop offset="1" stop-color="#FFB020" stop-opacity="0"/></radialGradient>
+<radialGradient id="g"><stop stop-color="#3DDC97" stop-opacity=".12"/><stop offset="1" stop-color="#3DDC97" stop-opacity="0"/></radialGradient>
+</defs><rect x=".5" y=".5" width="131" height="39" rx="16" fill="#15171C" stroke="#34383E"/><path d="M17 14v12m5-12 6 6-6 6" fill="none" stroke="#FFB020" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><g aria-label="LinkedIn" fill="#F4F2EC" transform="translate(40 25) scale(0.011 -0.011)"><path transform="translate(0 0)" d="M115 0V730H205V82H535V0Z"/><path transform="translate(600 0)" d="M85 0V82H280V468H110V550H370V82H555V0ZM315 649Q282 649 263.0 666.0Q244 683 244 712Q244 742 263.0 759.5Q282 777 315 777Q348 777 367.0 759.5Q386 742 386 712Q386 683 367.0 666.0Q348 649 315 649Z"/><path transform="translate(1200 0)" d="M92 0V550H182V445H201L182 424Q182 489 221.0 524.5Q260 560 329 560Q412 560 461.0 509.0Q510 458 510 370V0H420V360Q420 419 388.5 450.5Q357 482 303 482Q247 482 214.5 448.0Q182 414 182 350V0Z"/><path transform="translate(1800 0)" d="M95 0V730H185V323H291L451 550H554L369 288L557 0H452L292 245H185V0Z"/><path transform="translate(2400 0)" d="M300 -10Q235 -10 186.5 16.0Q138 42 111.5 89.5Q85 137 85 200V350Q85 414 111.5 461.0Q138 508 186.5 534.0Q235 560 300 560Q365 560 413.5 534.0Q462 508 488.5 461.0Q515 414 515 350V253H173V200Q173 135 206.0 100.5Q239 66 300 66Q352 66 384.0 84.5Q416 103 423 140H513Q504 71 445.5 30.5Q387 -10 300 -10ZM427 313V350Q427 415 394.5 450.0Q362 485 300 485Q239 485 206.0 450.0Q173 415 173 350V321H434Z"/><path transform="translate(3000 0)" d="M268 -10Q186 -10 135.5 45.0Q85 100 85 194V355Q85 450 135.0 505.0Q185 560 268 560Q336 560 377.0 523.0Q418 486 418 424L400 445H420L418 570V730H508V0H418V105H400L418 126Q418 63 377.0 26.5Q336 -10 268 -10ZM298 68Q354 68 386.0 103.0Q418 138 418 200V350Q418 412 386.0 447.0Q354 482 298 482Q241 482 208.0 448.0Q175 414 175 350V200Q175 136 208.0 102.0Q241 68 298 68Z"/><path transform="translate(3600 0)" d="M105 0V82H254V648H105V730H495V648H346V82H495V0Z"/><path transform="translate(4200 0)" d="M92 0V550H182V445H201L182 424Q182 489 221.0 524.5Q260 560 329 560Q412 560 461.0 509.0Q510 458 510 370V0H420V360Q420 419 388.5 450.5Q357 482 303 482Q247 482 214.5 448.0Q182 414 182 350V0Z"/></g></svg>

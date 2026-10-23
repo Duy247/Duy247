@@ -1,53 +1,142 @@
-<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
-<p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Van+Thanh+Duy;Automation+Tester;Manual+Test;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img src="assets/hero-light.svg" alt="Van Thanh Duy — Automation Tester at MBBank. Decorative profile demo: 3 passed." width="830">
+</picture>
+
+I’m **Van Thanh Duy**, an **Automation Tester at MBBank**.
+
+<details open>
+<summary>Skills / test report</summary>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/skills-light.svg">
+  <img src="assets/skills-light.svg" alt="Manual Testing · Python · Java · Automation Test · Web Development" width="830">
+</picture>
+
+</details>
+
+<table>
+<tr>
+<td width="50%"><a href="https://physx-cnh.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/physx-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/physx-light.svg">
+  <img src="assets/physx-light.svg" alt="Physx-CNH — Physics Olympiad resources" width="403">
+</picture>
+</a></td>
+<td width="50%"><a href="https://astronomy.physx-cnh.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/astro-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/astro-light.svg">
+  <img src="assets/astro-light.svg" alt="AstroGallery" width="403">
+</picture>
+</a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/duyvanthanh/uk6">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-uk6-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-uk6-light.svg">
+  <img src="assets/project-uk6-light.svg" alt="uk6" width="403">
+</picture>
+</a></td>
+<td width="50%"><a href="https://duyqa.blog">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-duyqa-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-duyqa-light.svg">
+  <img src="assets/project-duyqa-light.svg" alt="duyqa" width="403">
+</picture>
+</a></td>
+</tr>
+</table>
+
+<details>
+<summary>Activity / GitHub, languages &amp; npm</summary>
+
+<p><sub>Supplied cards are labeled SAMPLE / offline data unavailable.</sub></p>
+
+<table>
+<tr>
+<td width="50%"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/generated/stats-light.svg" />
+  <img src="assets/generated/stats-light.svg" alt="duyvanthanh GitHub contributions, streak, public repositories and stars" width="405" />
+</picture></td>
+<td width="50%"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/langs-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/generated/langs-light.svg" />
+  <img src="assets/generated/langs-light.svg" alt="duyvanthanh top five languages by repository bytes" width="405" />
+</picture></td>
+</tr>
+<tr>
+<td width="50%"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/npm-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/generated/npm-light.svg" />
+  <img src="assets/generated/npm-light.svg" alt="Weekly npm downloads for @duy247/uk6 and @duy247/git-training" width="405" />
+</picture></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/generated/snake-light.svg" />
+  <img src="assets/generated/snake-light.svg" alt="Duy247 contribution snake animation" width="830" />
+</picture>
+
+</details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+  <img src="assets/footer-light.svg" alt="Connect with Van Thanh Duy — duy5a247@gmail.com" width="830">
+</picture>
+
+<p>
+<a href="mailto:duy5a247@gmail.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/email-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/email-light.svg">
+  <img src="assets/email-light.svg" alt="Email" width="110">
+</picture>
+</a>
+<a href="https://www.linkedin.com/in/duy-van-thanh-8974b3292/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/linkedin-light.svg">
+  <img src="assets/linkedin-light.svg" alt="LinkedIn" width="132">
+</picture>
+</a>
+<a href="https://www.instagram.com/vanthanhduy">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/instagram-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/instagram-light.svg">
+  <img src="assets/instagram-light.svg" alt="Instagram" width="142">
+</picture>
+</a>
+<a href="https://github.com/duyvanthanh">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/organization-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/organization-light.svg">
+  <img src="assets/organization-light.svg" alt="duyvanthanh" width="164">
+</picture>
+</a>
+<a href="https://github.com/duyvanthanh/uk6">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/uk6-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/uk6-light.svg">
+  <img src="assets/uk6-light.svg" alt="uk6" width="92">
+</picture>
+</a>
+<a href="https://duyqa.blog">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/duyqa-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/duyqa-light.svg">
+  <img src="assets/duyqa-light.svg" alt="duyqa" width="104">
+</picture>
+</a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-
-<br>
-
-- 🌱 I AM currently  **Automation Tester**
-
-- 🏢 Working for MBBank
-
-- 👨‍💻 Explore my website for Physics Olympiad resources at [Physx-CNH](https://physx-cnh.com)
-
-- 🌗 Or my Astronomy Gallery at [AstroGallery](https://astronomy.physx-cnh.com)
-
-- 💬 Ask me about **Manual Testing, Python and Java, Automation Test, Web Development**
-
-- 📫 Reach me at **duy5a247@gmail.com**
-
-- 📄 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/duy-van-thanh-8974b3292/)
-
-
-### Connect with me 🔗 :
-<br>
-<p align='center'>
-<a href="mailto:duy5a247@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/vanthanhduy" target="_blank">
-<img src="https://img.shields.io/badge/DuyVan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/duy-van-thanh-8974b3292/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-</p>
-<br>
-
-## Github Stats &nbsp;📊
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=duy247&show_icons=true&theme=github_dark">
-</p>
-<hr>
-<br>
-
-## Most Used Languages 📚
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=duy247&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
-</p>
-
-<hr>
-<br>
+[duy5a247@gmail.com](mailto:duy5a247@gmail.com)

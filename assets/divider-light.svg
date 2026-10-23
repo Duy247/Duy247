@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="30" viewBox="0 0 830 30" role="img" aria-labelledby="title desc"><title id="title">Section divider</title><desc id="desc"></desc><style>
+.blink{animation:blink 1.8s steps(1,end) infinite}
+.type-window{animation:typing 2.2s steps(11,end) both}
+.reveal1{animation:reveal .5s 2.5s both}.reveal2{animation:reveal .5s 3.1s both}.reveal3{animation:reveal .5s 3.7s both}.reveal4{animation:reveal .5s 4.3s both}
+.twinkle{animation:twinkle 4s ease-in-out infinite alternate}.twinkle.alt{animation-delay:-2s}
+.pulse{animation:pulse 4s ease-in-out infinite}
+@keyframes blink{0%,65%,100%{opacity:1}75%,90%{opacity:.15}}
+@keyframes typing{from{width:0}to{width:560px}}
+@keyframes reveal{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+@keyframes twinkle{from{opacity:.25}to{opacity:1}}
+@keyframes pulse{0%,100%{opacity:.6}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.blink,.type-window,.reveal1,.reveal2,.reveal3,.reveal4,.twinkle,.pulse{animation:none!important}.type-window{width:560px}}
+</style><defs>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#59616C" stroke-opacity=".075"/></pattern>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 1H4" stroke="#15171C" stroke-opacity=".02"/></pattern>
+<radialGradient id="a"><stop stop-color="#FFB020" stop-opacity=".12"/><stop offset="1" stop-color="#FFB020" stop-opacity="0"/></radialGradient>
+<radialGradient id="g"><stop stop-color="#3DDC97" stop-opacity=".12"/><stop offset="1" stop-color="#3DDC97" stop-opacity="0"/></radialGradient>
+</defs><rect x=".5" y=".5" width="829" height="29" rx="16" fill="#F4F2EC" stroke="#CCCAC3"/><ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="7.5 10.5 87.5 79" x="0" y="0" width="33" height="30"><ns0:path fill="#15171c" d="M21.5 30a5.5 5.5 0 0 1 11 0v40a5.5 5.5 0 0 1-11 0Zm23.29-3.98 21 20a5.5 5.5 0 0 1 0 7.96l-21 20a5.5 5.5 0 0 1-7.58-7.96L54.02 50 37.21 33.98a5.5 5.5 0 0 1 7.58-7.96" /><ns0:path fill="#3ddc97" d="M68.5 62h11a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5h-11a1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5" /></ns0:svg><path d="M48 15H830" stroke="#59616C" opacity=".25"/></svg>

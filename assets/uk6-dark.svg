@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="40" viewBox="0 0 92 40" role="img" aria-labelledby="title desc"><title id="title">uk6</title><desc id="desc"></desc><style>
+.blink{animation:blink 1.8s steps(1,end) infinite}
+.type-window{animation:typing 2.2s steps(11,end) both}
+.reveal1{animation:reveal .5s 2.5s both}.reveal2{animation:reveal .5s 3.1s both}.reveal3{animation:reveal .5s 3.7s both}.reveal4{animation:reveal .5s 4.3s both}
+.twinkle{animation:twinkle 4s ease-in-out infinite alternate}.twinkle.alt{animation-delay:-2s}
+.pulse{animation:pulse 4s ease-in-out infinite}
+@keyframes blink{0%,65%,100%{opacity:1}75%,90%{opacity:.15}}
+@keyframes typing{from{width:0}to{width:560px}}
+@keyframes reveal{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+@keyframes twinkle{from{opacity:.25}to{opacity:1}}
+@keyframes pulse{0%,100%{opacity:.6}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.blink,.type-window,.reveal1,.reveal2,.reveal3,.reveal4,.twinkle,.pulse{animation:none!important}.type-window{width:560px}}
+</style><defs>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8C929B" stroke-opacity=".075"/></pattern>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 1H4" stroke="#F4F2EC" stroke-opacity=".02"/></pattern>
+<radialGradient id="a"><stop stop-color="#FFB020" stop-opacity=".16"/><stop offset="1" stop-color="#FFB020" stop-opacity="0"/></radialGradient>
+<radialGradient id="g"><stop stop-color="#3DDC97" stop-opacity=".12"/><stop offset="1" stop-color="#3DDC97" stop-opacity="0"/></radialGradient>
+</defs><rect x=".5" y=".5" width="91" height="39" rx="16" fill="#15171C" stroke="#34383E"/><path d="M17 14v12m5-12 6 6-6 6" fill="none" stroke="#FFB020" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><g aria-label="uk6" fill="#F4F2EC" transform="translate(40 25) scale(0.011 -0.011)"><path transform="translate(0 0)" d="M299 -10Q204 -10 147.0 46.5Q90 103 90 200V550H180V200Q180 138 212.0 103.5Q244 69 299 69Q355 69 387.5 103.5Q420 138 420 200V550H510V200Q510 103 452.0 46.5Q394 -10 299 -10Z"/><path transform="translate(600 0)" d="M95 0V730H185V323H291L451 550H554L369 288L557 0H452L292 245H185V0Z"/><path transform="translate(1200 0)" d="M301 -10Q231 -10 178.5 19.5Q126 49 97.0 102.0Q68 155 68 225Q68 280 83.5 333.0Q99 386 130 435L313 730H413L206 398L210 395Q229 423 262.0 438.0Q295 453 336 453Q396 453 440.0 425.0Q484 397 508.0 346.0Q532 295 532 225Q532 155 503.0 102.0Q474 49 422.5 19.5Q371 -10 301 -10ZM300 70Q364 70 403.0 112.5Q442 155 442 225Q442 295 403.0 337.5Q364 380 300 380Q236 380 197.0 337.5Q158 295 158 225Q158 155 197.0 112.5Q236 70 300 70Z"/></g></svg>
