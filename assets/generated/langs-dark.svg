@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="405" height="260" viewBox="0 0 405 260" role="img" aria-labelledby="title desc">
-<title id="title">duyvanthanh | languages</title><desc id="desc">report languages --top 5. BYTES / owned public non-forks / 2026-10-29</desc>
+<title id="title">duyvanthanh | languages</title><desc id="desc">report languages --top 5. BYTES / owned public non-forks / 2026-10-30</desc>
 <style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;fill:#F6F7F9;font-size:12px}.muted{fill:#A7ADB7}.accent{fill:#F5A524}.content{animation:appear .65s ease-out both}@keyframes appear{from{opacity:.45}to{opacity:1}}@media(prefers-reduced-motion:reduce){.content{animation:none}}</style>
 <rect x=".5" y=".5" width="404" height="259" rx="12" fill="#1C1E22" stroke="#373B42"/>
 <path d="M1 44H404" stroke="#373B42"/>
@@ -12,4 +12,4 @@
 <circle cx="24" cy="140" r="3" fill="#F5A524"/><text x="35" y="144">Fluent</text><text x="381" y="144" text-anchor="end" class="muted">16.4%</text><rect x="35" y="149" width="346" height="3" rx="1.5" fill="#30343B"/><rect x="35" y="149" width="56.86" height="3" rx="1.5" fill="#F5A524"/>
 <circle cx="24" cy="165" r="3" fill="#3DDC97"/><text x="35" y="169">Kotlin</text><text x="381" y="169" text-anchor="end" class="muted">4.8%</text><rect x="35" y="174" width="346" height="3" rx="1.5" fill="#30343B"/><rect x="35" y="174" width="16.50" height="3" rx="1.5" fill="#3DDC97"/>
 <circle cx="24" cy="190" r="3" fill="#F5A524"/><text x="35" y="194">PHP</text><text x="381" y="194" text-anchor="end" class="muted">3.4%</text><rect x="35" y="199" width="346" height="3" rx="1.5" fill="#30343B"/><rect x="35" y="199" width="11.82" height="3" rx="1.5" fill="#F5A524"/>
-</g><path d="M20 224H385" stroke="#373B42"/><text x="20" y="245" class="muted" style="font-size:10px">BYTES / owned public non-forks / 2026-10-29</text></svg>
+</g><path d="M20 224H385" stroke="#373B42"/><text x="20" y="245" class="muted" style="font-size:10px">BYTES / owned public non-forks / 2026-10-30</text></svg>
